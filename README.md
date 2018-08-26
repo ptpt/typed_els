@@ -1,6 +1,6 @@
 # typed_els
 
-NOTE: This tool is deprecated. Use https://github.com/ptpt/dts-els instead.
+**NOTE: This tool is deprecated. Use https://github.com/ptpt/dts-els instead.**
 
 `typed_els` converts [Elasticsearch
 mappings](https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-types.html)
